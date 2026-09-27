@@ -43,3 +43,6 @@ Eles ainda não estão disponíveis no repositório remoto do GitHub. Quando o g
 É possível acessar a página do repositório no GitHub e consultar o histórico de commits.
 
 Também é possível comparar a quantidade e as mensagens dos commits exibidos no GitHub com os commits existentes no repositório local.
+
+
+Tiago erthal weber
